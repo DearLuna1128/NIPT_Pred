@@ -227,8 +227,8 @@ print(f"临床建议: {results['clinical_decision']}")
 
 ## 📞 联系方式
 
-- 项目链接：[https://github.com/DearLuna1128/NIPT-T13-18-21-](https://github.com/DearLuna1128/NIPT-T13-18-21-)
-- 问题反馈：[Issues](https://github.com/DearLuna1128/NIPT-T13-18-21-/issues)
+- 项目链接：[https://github.com/DearLuna1128/NIPT_Pred](https://github.com/DearLuna1128/NIPT_Pred)
+- 问题反馈：[Issues](https://github.com/DearLuna1128/NIPT-Pred/issues)
 
 ## 🙏 致谢
 
